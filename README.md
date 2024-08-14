@@ -16,7 +16,7 @@
 
 # Excel
 
-**Topic covered in this section:**
+**Topics covered in this section:**
 
 * Pivot Tables
 * Formulas
@@ -28,7 +28,7 @@
 
 # Tableau
 
-**Topic covered in this section:**
+**Topics covered in this section:**
 
 * Installation and basic data visualization
 * Calculate Fields and Bins
@@ -38,7 +38,7 @@
 
 # Power BI
 
-**Topic covered in this section:**
+**Topics covered in this section:**
 
 * Installation
 * Power Query
@@ -52,9 +52,38 @@
 
 ![image](https://github.com/user-attachments/assets/2b1e088f-ec41-42e2-bc3e-aac17f5f33ca)
 
+# PANDAS
 
+**Topics covered in this section:**
 
+* Reading in files
+* Filter columns and rows
+* Indexees
+* Group By & Aggregate functions
+* Merging Data Frames
+* Create Visualizations
+* Data Cleaning
+* Exploratory Data Analysis
 
+# Python
+
+**Topics covered in this section:**
+
+* Variables
+* Data Types
+* Comparisons, Logical & membership operators
+* If Else Statement
+* For Loops
+* While Loops
+* Functions
+* Converting Data Types
+* Mini programs - BMI calculator
+
+**Web Scraping & Data Extractions**
+* Inspecting Web Pages
+* Beautiful Soup + requests
+* Find and Find_all
+* Scraping data
 
 
 
